@@ -31,7 +31,7 @@ public class TestPersonObjects {
 
         CydeoStudent c = new CydeoStudent("Alex", 30, 'M', "sd123", "Tester", 'A', 51, "groupBla", "Java");
         System.out.println(c);
-        //CydeoStudent{name='Alex', age=30, gender=M, studentId='sd123', fieldOfStudy=Tester, schoolName=Cydeo School, grade=A, batchNum='51', groupName=groupBla, progLanguage=Java}
+        // CydeoStudent{name='Alex', age=30, gender=M, studentId='sd123', fieldOfStudy=Tester, schoolName=Cydeo School, grade=A, batchNum='51', groupName=groupBla, progLanguage=Java}
 
         //c.setProgLanguage("C#");
         // progLanguage must be set to one of the followings:
